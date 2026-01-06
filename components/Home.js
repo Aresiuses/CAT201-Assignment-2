@@ -12,10 +12,10 @@ const Home = () => {
   return (
     <section id="home" className="home-hero">
       <div className="hero-content">
-        <h1>Innovative Software Solutions for Modern Business</h1>
+        <h1>Aritificial Intelligence Solutions for Modern Business</h1>
         <p>
           We are a team of passionate computer science graduates dedicated to 
-          transforming your ideas into cutting-edge software solutions.
+          intregrate your business with AI
         </p>
         <div className="hero-buttons">
           <button  className="btn-primary" onClick={() => scrollToSection('services')}>Explore Our Services →</button>
