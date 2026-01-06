@@ -12,7 +12,7 @@ const Home = () => {
   return (
     <section id="home" className="home-hero">
       <div className="hero-content">
-        <h1>Aritificial Intelligence Solutions for Modern Business</h1>
+        <h1>Aritificial Intelligence Integration for Modern Business</h1>
         <p>
           We are a team of passionate computer science graduates dedicated to 
           intregrate your business with AI
