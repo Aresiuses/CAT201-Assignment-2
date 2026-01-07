@@ -38,7 +38,7 @@ const VideoSection = () => {
             ) : (
               <iframe
                 className="iframe-video"
-                src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1"
+                src="https://www.youtube.com/embed/IxRVa1DbSAg?autoplay=1"
                 title="Company Introduction Video"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
